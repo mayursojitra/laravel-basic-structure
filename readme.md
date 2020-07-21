@@ -15,3 +15,11 @@
 - Run command `php artisan key:generate` for environment key generation
 - Run command `php artisan migrate` for database creation
 - Run command `php artisan passport:install` for api key generation
+
+
+## Features
+- Custom Auth & Middleware
+    - admin with eloquent Admin
+    - api with eloquent User
+    - web with eloquent User
+- Admin Dashboard with admin authentication
